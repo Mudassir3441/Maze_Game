@@ -53,5 +53,5 @@ If you want to contribute or enhance this game:
 - This game is licensed under the MIT License.
 
 ## Contact:
-- Email: mlkabawan336@gmail.com
-- GitHub: abawan7
+- Email: malikmudasirali46@gmail.com
+- GitHub: Mudassir3441
